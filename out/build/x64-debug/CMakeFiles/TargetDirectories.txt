@@ -1,0 +1,5 @@
+D:/vs-project/mtr_malloc/out/build/x64-debug/CMakeFiles/mtr_malloc.dir
+D:/vs-project/mtr_malloc/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/vs-project/mtr_malloc/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/vs-project/mtr_malloc/out/build/x64-debug/internal/CMakeFiles/edit_cache.dir
+D:/vs-project/mtr_malloc/out/build/x64-debug/internal/CMakeFiles/rebuild_cache.dir

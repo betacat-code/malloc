@@ -21,8 +21,8 @@ static void*& NextObj(void* obj) {
 class PageCache {
 private:
   PageCache() {
-		//std::cout << "PageCache called!\n";
-	};
+	//std::cout << "PageCache called!\n";
+};
 	PageCache(const PageCache&) = delete;
 public:
   	static PageCache& GetInstance() {

@@ -5,11 +5,6 @@
 - central cache：中心缓存是所有线程所共享，合适的时机回收thread cache中的对象（当thread cache某个桶中对象过多的时候）
 - page cache：存储的内存是以页为单位存储及分 配的，central cache没有内存对象时，从page cache分配出一定数量的page，并切割成定长大小的小块内存
 
-# thread cache
-
-# central cache
-
-# page cache
 
 # 涉及到的知识点
 
